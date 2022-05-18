@@ -1,7 +1,7 @@
 # Php-Sql-make-up-site
-<font size="26">
 The main page
 ![image](https://user-images.githubusercontent.com/91314839/168610346-435aab30-1399-40e0-8a75-eb0ef66c1739.png)
+
 You can sign up, clicking on the button in the top, left corner.
 ![image](https://user-images.githubusercontent.com/91314839/169041803-5daf5bd3-72fc-4cee-b713-6a39feabd2f0.png)
 Or login
@@ -14,4 +14,3 @@ Clicking on the "Palete farduri" or "Pensule machiaj" will lead you to another p
 On the "Contact extern page" you will find my LinkedIn profile
 And on the "Personal" page, is a table where you can add new registrations.
 ![image](https://user-images.githubusercontent.com/91314839/169043503-33439e4b-0b61-4363-bc0a-109d2e4c084a.png)
-</font>
